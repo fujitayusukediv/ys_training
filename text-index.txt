@@ -1,0 +1,38 @@
+１
+古宇利島
+古宇利島について
+
+２
+島の地図
+島のビーチ
+島の日々
+島へのアクセス    
+島の情報
+宿の予約"
+
+３
+ツイート
+Like 2.8K
+  
+
+
+
+案
+２
+配置を真ん中にする
+margin 0
+position fixed
+right 0
+top 50%
+
+配置を横にする→
+flex-direction row
+
+幅の統一→
+justyfy-content space-around
+
+３
+配置を変える→
+position:fixed;
+right 50%
+bottom 0
